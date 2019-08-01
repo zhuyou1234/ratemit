@@ -35,3 +35,7 @@ c、 rxjava time  window()
 需要注意的是：
 
 1. hystricx后期已经拥抱rxjava ，之前的HystrixRollingNumber已经被废弃了
+
+
+具体详见
+https://www.jianshu.com/p/2e36f0eb9d03
